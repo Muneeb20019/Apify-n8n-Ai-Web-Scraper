@@ -1,8 +1,5 @@
 # 🤖 AI-Powered Automated Web Scraper & Lead Gen System
 
-![License](https://img.shields.io/badge/Status-Complete-brightgreen)
-![Tools](https://img.shields.io/badge/Tools-n8n%20%7C%20OpenAI%20%7C%20Apify%20%7C%20Google%20Sheets-orange)
-
 ## 🌟 Project Overview
 This project features a robust automation pipeline built using **n8n** to automate web scraping and lead enrichment. The system orchestrates multiple services to extract raw data from websites, process it using **GPT-4o**, and deliver high-quality, structured leads directly into **Google Sheets**.
 
